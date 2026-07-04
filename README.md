@@ -27,4 +27,4 @@ Digital &amp; Business Intelligence Intern @ <a href="https://www.linkedin.com/c
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-al-alimi/) · alalimim14@gmail.com
 
-<sub>AWS Certified Cloud Practitioner · Google Data Analytics · English (Native), Arabic (Native), German (B2)</sub>
+<sub>AWS Certified Cloud Practitioner · Google Data Analytics · English (Native), Arabic (Native), German (B1)</sub>
