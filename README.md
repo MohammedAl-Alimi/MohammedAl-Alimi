@@ -14,9 +14,10 @@ Digital &amp; Business Intelligence Intern @ <a href="https://www.act3.de/">act.
 
 ## Featured Projects
 
+- **[AI-Powered Crowd Detection](https://github.com/MohammedAl-Alimi/AI-Powered-Crowd-Detection)** — privacy-first AI crowd analytics for the adidas Zone at Cape Town Marathon Expo 2026 (B.Sc. thesis, Python)
+- **[Crowd Monitoring Dashboard](https://github.com/MohammedAl-Alimi/crowd_monitoring_dashboard)** — live analytics dashboard for real-time crowd data ([demo](https://crowdmonitoringdashboard.vercel.app))
 - **[Aurora](https://github.com/MohammedAl-Alimi/Auroura)** — AI flashcard &amp; quiz generator (Flutter, Google ML Vision, SM-2 spaced repetition, Stripe)
 - **[Hurricane Chatbot &amp; Data Explorer](https://github.com/MohammedAl-Alimi/Hurricane_AI_Tracker)** — full-stack app with a map UI and a GPT-4 chatbot over storm data
-- **[Inverta](https://github.com/MohammedAl-Alimi/inventory-tracker)** — inventory system with Next.js, React, and Firebase
 
 ## Tech
 
