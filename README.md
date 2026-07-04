@@ -10,7 +10,7 @@ Digital &amp; Business Intelligence Intern @ <a href="https://www.linkedin.com/c
 - **AI crowd-detection system for expo spaces** @ act.3 — camera setup to live analytics dashboard
 - **RAG pipeline** consolidating client knowledge to power internal AI research
 - **Software Engineering Resident @ Headstarter AI** — LLM chaining, fine-tuning, and full-stack ML projects
-- **Head of Growth &amp; Board Member @ START Berlin** — co-organizing AgentCon Berlin 2026
+- **Head of Growth &amp; Board Member @ START Berlin** — co-organizied AgentCon Berlin 2025 & 2026
 
 ## Featured Projects
 
