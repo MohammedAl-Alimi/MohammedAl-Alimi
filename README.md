@@ -2,7 +2,7 @@
 
 <p align="center">
 Software engineer building applied-AI products — computer vision, RAG, and LLM automation<br />
-Digital &amp; Business Intelligence Intern @ <a href="https://www.linkedin.com/company/weareact3">act.3</a> · CS @ SRH Berlin '27 · Berlin, Germany
+Intern | GTM Engineering@ <a href="https://www.linkedin.com/company/reonic/posts/">Reonic</a> · CS @ SRH Berlin '27 · Berlin, Germany
 </p>
 
 ## What I'm Working On
